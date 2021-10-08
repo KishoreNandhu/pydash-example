@@ -1,2 +1,2 @@
-# pydash-example
-Using it for learning git
+# Python-Dash
+Simple Pydash application
